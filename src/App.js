@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Ma To-Do List v2 </h1>
+      <h1>Ma To-Do List</h1>
       
       <div className="input-group">
         <input 
